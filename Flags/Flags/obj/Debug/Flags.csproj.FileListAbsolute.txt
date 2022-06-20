@@ -1,0 +1,10 @@
+C:\Users\17149\OneDrive\Desktop\Coding\C# Projects\Flags\Flags\bin\Debug\Flags.exe.config
+C:\Users\17149\OneDrive\Desktop\Coding\C# Projects\Flags\Flags\bin\Debug\Flags.exe
+C:\Users\17149\OneDrive\Desktop\Coding\C# Projects\Flags\Flags\bin\Debug\Flags.pdb
+C:\Users\17149\OneDrive\Desktop\Coding\C# Projects\Flags\Flags\obj\Debug\Flags.csprojAssemblyReference.cache
+C:\Users\17149\OneDrive\Desktop\Coding\C# Projects\Flags\Flags\obj\Debug\Flags.Form1.resources
+C:\Users\17149\OneDrive\Desktop\Coding\C# Projects\Flags\Flags\obj\Debug\Flags.Properties.Resources.resources
+C:\Users\17149\OneDrive\Desktop\Coding\C# Projects\Flags\Flags\obj\Debug\Flags.csproj.GenerateResource.cache
+C:\Users\17149\OneDrive\Desktop\Coding\C# Projects\Flags\Flags\obj\Debug\Flags.csproj.CoreCompileInputs.cache
+C:\Users\17149\OneDrive\Desktop\Coding\C# Projects\Flags\Flags\obj\Debug\Flags.exe
+C:\Users\17149\OneDrive\Desktop\Coding\C# Projects\Flags\Flags\obj\Debug\Flags.pdb
